@@ -53,7 +53,7 @@ You Guyz Can Try My Other Bots Like ***montanatech*** & ***MONTANA-V1*** Which H
 
 
 ❏GET SESSION ID (SCAN-QR) 
-<a href="https://https://session-generator-bsji.onrender.com//" target="_blank">
+<a href="https://https://session-generator-bsji.onrender.com,//" target="_blank">
   <img src="https://img.shields.io/badge/SCAN QR-red?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
@@ -61,7 +61,7 @@ You Guyz Can Try My Other Bots Like ***montanatech*** & ***MONTANA-V1*** Which H
 
 
 ❑GET SESSION ID (PAIR)
-<a href="https://https://session-generator-bsji.onrender.com//" target="_blank">
+<a href="https://https://session-generator-bsji.onrender.com,//" target="_blank">
   <img src="https://img.shields.io/badge/SCAN QR-red?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
