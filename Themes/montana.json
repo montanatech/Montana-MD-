@@ -1,0 +1,57 @@
+{
+    "_JSON_": true,
+    "AUTHOR": "MAGICAL KX",
+    "theme": "ANIME",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": { 
+        "updater": {
+            "UPDATE": "Your bot is Already up-to-date",
+            "NEW_UPDATE": "it's time to update the bot!\n*Changes:*\n",
+            "UPDATED_LOCAL": "Updated Successfully !"
+        },
+        "global": {
+            "botName": " MONTANA-MD",
+            "body": "whatsapp Bot",
+            "greet2" : "Thanks To MAGICAL KX",
+            "pic1": "https://telegra.ph/file/d72abb0d683cb48a6e1fb.jpg",
+            "pic2": "https://telegra.ph/file/d72abb0d683cb48a6e1fb.jpg",
+            "pic3": "https://telegra.ph/file/d72abb0d683cb48a6e1fb.jpg",
+            "pic4": "https://telegra.ph/file/d72abb0d683cb48a6e1fb.jpg", 
+            "pic5": "https://telegra.ph/file/d72abb0d683cb48a6e1fb.jpg",
+            "pic6": "https://telegra.ph/file/d72abb0d683cb48a6e1fb.jpg",
+            "pic7": "https://telegra.ph/file/d72abb0d683cb48a6e1fb.jpg",
+            "greet" : "Believe it",
+            "dotbody" : "I decided being to be King.",
+            "emojii" : "⚡",
+            "promote": "Admin Role Given to Kenton",
+            "pmallow": "*Hi,This is MAGICAL-KX\n You have been blocked for spamming.",
+            "pmwarn": "Hi* \nPlease don't spam else I'll block you for spamming.\nJoin Support Group:\n https://chat.whatsapp.com/JM1yBMlveulDrAN22jHcWV\n*⤹∆ᴘᴏᴡᴇʀᴇᴅ ʙʏ↑⤸ LOU ᴹᴰ*",
+            "permited": "Hi\n\nNow You are permitted by my owner to pm now.\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ MONTANA ᴹᴰ*", 
+            "revoked" : "Hi\nYour pm permit permission has been revoked now.\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ MONTANA ᴹᴰ*",
+            "demote": "Admin Role Taken back",
+            "antlink": "Link Detected.\n*Good Bye IDiot*",
+            "session": "This is your session.json,keep it safe\n*Now Upload This json file in Your Forked Repo\n Connect your repo to Heroku and *Deploy Branch and Bot will run for Always\n\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ LOU ᴹᴰ*",
+            "mention": " Please mention My Owner",
+            "title": "LOU ᴹᴰ",
+            "theme": "Anime",
+            "footer": "MAGICAL-KX\nwww.youtube.com/KentonX-tech",
+            "by": "Made by: MAGICAL KX",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Done ✓",
+            "dot": "Hi, Did you mean -help?\n just.. don't bother me while I'm eating MF",
+            "couple_male": "I'm pretty sure I can't live without being helped!",
+            "couple_female": "I'm pretty sure I can't live without being helped!",
+            "admin": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ!",
+            "botAdmin": "ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴍᴇ ᴀᴅᴍɪɴ ʀᴏʟᴇ.!",
+            "owner": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ!",
+            "group": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ!",
+            "private": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ!",
+            "bot": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ!",
+            "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇᴏ̨ᴜᴇsᴛ"
+        },
+        "error": {
+            "text": "You Idiot tried To Edit ME\nNow go get this Error fixed*"
+        }
+    }
+  }
