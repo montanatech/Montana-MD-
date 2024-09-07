@@ -16,7 +16,7 @@
 <a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/Montna-md-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/montanatech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
+<a href="https://github.com/montanatech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/montanatech?label=Followers&style=social"></a>
 <a href="https://github.com/montanatech/montana-md-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/montanatech/montana-md-?&style=social"></a>
 <a href="https://github.com/montanatech/montana-md-/network/members"><img title="Fork" src="https://img.shields.io/github/forks/montanatech/montana-md-?style=social"></a>
 <a href="https://github.com/montanatec/montana-md-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/montanatech/montana-md-?label=Watching&style=social"></a>
@@ -35,9 +35,9 @@
 You Guyz Can Try My Other Bots Like ***montanatech*** & ***MONTANA-V1*** Which Have Many `Advance Features` Then This Bot
 <br>
 
-[*XLICON-V2*](https://github.com/MAGICAL-KX/Lou-md)
+[*lou-md*](https://github.com/MAGICAL-KX/Lou-md)
 <br>
-[*XLICON-V3*](https://github.com/MAGICAL-KX/Lou-md)
+[*MAGICAL*](https://github.com/MAGICAL-KX/Lou-md)
 <br>
 
 ---
@@ -367,7 +367,7 @@ Choose your repo
 
 
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/0789432940" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a aria-label="Join our chats" href="https://wa.me/263789432940?text=Hi!! Ano Sir, I need Your Help" target="_blank">
