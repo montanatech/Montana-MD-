@@ -1,28 +1,28 @@
 ## `montanatech`
 <div ="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its MONTANA-MD;Multi+Device+Whatsapp+Bot;Developed+By+MAGICAL KX AND MONTANA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its MONTANA-MD;Multi+Device+Whatsapp+Bot;Developed+By+MONTANA" alt="Typing SVG" /></a>
   
   
 <p align="center">
   <a href="">
-    <img alt=Support height="300" src="https://i.imgur.com/tQQyQwp.jpeg"> 
+    <img alt=Support height="300" src=""> 
     </p>
-    <h1 align="center">XLICON-1.O<br></h1>
+    <h1 align="center">MONTANA-1.O<br></h1>
     
    </a>
 </p>
   
 <p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/XLICON-BOT-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/Montna-md-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/salmanytofficial?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-MD?&style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?style=social"></a>
-<a href="https://github.com/salmanytofficial/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-MD?label=Watching&style=social"></a>
+<a href="https://github.com/montanatech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
+<a href="https://github.com/montanatech/montana-md-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/montanatech/montana-md-?&style=social"></a>
+<a href="https://github.com/montanatech/montana-md-/network/members"><img title="Fork" src="https://img.shields.io/github/forks/montanatech/montana-md-?style=social"></a>
+<a href="https://github.com/montanatec/montana-md-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/montanatech/montana-md-?label=Watching&style=social"></a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{salmanytofficial}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{MAGICAL-KX}/count.svg" alt="MONTANA :: Visitor's Count" /></p>
 
 </br>
 
@@ -32,12 +32,12 @@
 ## `Notice`o More orking` Fine And Have Many `Error
 <br>
 
-You Guyz Can Try My Other Bots Like ***montanatech*** & ***XLICON-V3*** Which Have Many `Advance Features` Then This Bot
+You Guyz Can Try My Other Bots Like ***montanatech*** & ***MONTANA-V1*** Which Have Many `Advance Features` Then This Bot
 <br>
 
-[*XLICON-V2*](https://github.com/salmanytofficial/XLICON-V2-MD)
+[*XLICON-V2*](https://github.com/MAGICAL-KX/Lou-md)
 <br>
-[*XLICON-V3*](https://github.com/salmanytofficial/XLICON-V3-MD)
+[*XLICON-V3*](https://github.com/MAGICAL-KX/Lou-md)
 <br>
 
 ---
@@ -45,8 +45,8 @@ You Guyz Can Try My Other Bots Like ***montanatech*** & ***XLICON-V3*** Which Ha
 
 
 ❏FORK THE REPOSITORY 
-  <a href="https://github.com/salmanytofficial/XLICON-MD/fork" target="_blank">
-  <img src="https://img.shields.io/badge/FORK XLICON-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+  <a href="https://github.com/montanatech/montana-md-/fork" target="_blank">
+  <img src="https://img.shields.io/badge/FORK montana-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
@@ -116,8 +116,8 @@ After this fill the vars by your own information and paste this JSON to your Rep
 ```
 {
   "SESSION_ID": "ID-Here",
-  "OWNER_NUMBER": "92xxxxxxxxxx",
-  "OWNER_NAME": "SalmanAhmad",
+  "OWNER_NUMBER": "263xxxxxxxxxx",
+  "OWNER_NAME": "MAGICAL-KX",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "required",
   "PACK_INFO": "WABOT;Xlicon",
@@ -163,7 +163,7 @@ Choose your repo
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/salmanytofficial/XLICON-MD">
+    <a href="https://repl.it/github/montanatech/montana-md-">
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
@@ -206,7 +206,7 @@ Choose your repo
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/salmanytofficial/XLICON-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/montanatech/montana-md-">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
@@ -229,7 +229,7 @@ Choose your repo
 </p>
 
 <p align="center" >
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/https://github.com/salmanytofficial/XLICON-MD&branch=main&build_command=npm%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]=https://telegra.ph/file/3c341828d86ee7a89c73f.jpg&env[email]=infiniteytff@gmail.com&env[global_url]=instagram.com/sla.sher_&env[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=XLICON;MD&name=xliconuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/https://github.com/salmanytofficial/XLICON-MD&branch=main&build_command=npm%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]=.jpg&env[email]=infiniteytff@gmail.com&env[global_url]=instagram.com/sla.sher_&env[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=MONTANA;MD&name=xliconuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="170px" alt="Deploy on Koyeb" >
     </a>
 
@@ -324,7 +324,7 @@ Choose your repo
   
 <p align="center">
     <a href="https://dash.boxmineworld.com/">
-    <img src="https://graph.org/file/2af0e67f320986702ea24.jpg" alt="Deploy on Boxmineworld" width="175px">
+    <img src="" alt="Deploy on Boxmineworld" width="175px">
     </a>
     <br>
 
@@ -349,42 +349,34 @@ Choose your repo
 
 <div align="center">
   
-| [![𝚂𝚊𝚕𝚖𝚊𝚗𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕](https://github.com/salmanytofficial.png?lenght=50width=50)](https://github.com/salmanytofficial)|
+| [![MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/MAGICAL-KX)|
 |----|
-| [ 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 ](https://github.com/salmanytofficial) |
+| [ MONTANA ](https://github.com/montanatech) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
 <br>
   
-| [![SlasherOfficial](https://github.com/Maher-Zubair.png?lenght=50width=50)](https://github.com/Maher-Zubair) |
+| [![MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/MAGICAL-KX) |
 |----|
-| [ 𝙈𝘼𝙃𝙀𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/Maher-Zubair) |
+| [ 𝙈AGICAL-KX ](https://github.com/Maher-Zubair) |
 |  Co.Owner , Bug Fixer, |
 
   </div>
   
-   ## 
-| [![Xcelsama](https://github.com/Xcelsama.png?lenght=50width=50)](https://github.com/Xcelsama) |
-|----|
-| [ 乂匚乇ㄥ丂卂爪卂](https://github.com/Xcelsama) |
-|  Co.Owner , Bug Fixer,Tester
 
-  ## `Support`
-
-For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 
 
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/0789432940" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/263789432940?text=Hi!! Ano Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 **Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/ahmmikun">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/ano">
   <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
 </a>
 
@@ -406,19 +398,15 @@ For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 <h1 align="left">  ✨Spacial Thanks To🎯
 </h1>
 
-* [`🎐 Sampandey`](https://github.com/SamPandey001) ***For Sector MD Base***
-* [`🎐Xcelsama`](https://github.com/Xcelsama) ***For QR***
-* [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo) ***For Scripts and Debugging***
-* [`🎐 MAHER-ZUBAIR`](https://github.com/Maher-Zubair) ***For Fixing Plugins***
-* [`🎐 Abraham Dwamena`](https://github.com/abrahamdw882) ***For QR Ideas***
-* [`🎐 MR-KALINDU`](https://github.com/MR-KALINDU) ***For Fixing Errors***
+* [`🎐 MAGICAL-KX`](https://github.com/MAGICAL-KX) ***For  ALL BOT STAFF***
+  
 * 
 
 
 ---
 
 </p>
-<h1 align="center"> Thanks To  SuhailTechInfo
+<h1 align="center"> Thanks To  MAGICAL-KX
 </h1>
 
  <br><br>
