@@ -53,16 +53,16 @@ You Guyz Can Try My Other Bots Like ***montanatech*** & ***MONTANA-V1*** Which H
 
 
 ❏GET SESSION ID (SCAN-QR) 
-<a href="https://xlicon-qr-3282f577cf2e.herokuapp.com/" target="_blank">
-  <img src="https://img.shields.io/badge/SCAN QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+<a href="https://https://getsession-9a04ec726730.herokuapp.com/scan/" target="_blank">
+  <img src="https://img.shields.io/badge/SCAN QR-red?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
 
 
-❑SCAN QR (REPLIT)
-<a href="https://replit.com/@S4SalmanYt/XLICON-MD-QR-V4" target="_blank">
-  <img src="https://img.shields.io/badge/SCAN QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+❑GET SESSION ID (PAIR)
+<a href="https://https://getsession-9a04ec726730.herokuapp.com/pair/" target="_blank">
+  <img src="https://img.shields.io/badge/SCAN QR-red?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
