@@ -1,6 +1,6 @@
 ## `montanatech`
 <div ="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its MONTANA-MD;Multi+Device+Whatsapp+Bot;Developed+By+MONTANA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=blue&center=true&width=900&height=100&lines=Its MONTANA-MD;Multi+Device+Whatsapp+Bot;Developed+By+MONTANA" alt="Typing SVG" /></a>
   
   
 <p align="center">
@@ -53,7 +53,7 @@ You Guyz Can Try My Other Bots Like ***montanatech*** & ***MONTANA-V1*** Which H
 
 
 ❏GET SESSION ID (MONTANA MD SESSION ID) 
-<a href="https://montana-tech-and-mr-ntando-ofc.onrender.com," target="_blank">
+<a href="https://montana-tech-and-mr-ntando-ofc.onrender.com" target="_blank">
   <img src="https://img.shields.io/badge/SCAN QR-pink?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
@@ -61,7 +61,7 @@ You Guyz Can Try My Other Bots Like ***montanatech*** & ***MONTANA-V1*** Which H
 
 
 ❑GET SESSION ID (MONTANA)
-<a href="https://montana-tech-and-mr-ntando-ofc.onrender.com," target="_blank">
+<a href="https://montana-tech-and-mr-ntando-ofc.onrender.com" target="_blank">
   <img src="https://img.shields.io/badge/SCAN QR-purple?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
