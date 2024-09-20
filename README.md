@@ -358,8 +358,10 @@ Choose your repo
   
 | [![MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/MAGICAL-KX) |
 |----|
-| [ 𝙈AGICAL-KX ](https://github.com/Maher-Zubair) |
+| [ 𝙈AGICAL-KX ](https://github.com/MAGICAL KX) |
 |  Co.Owner , Bug Fixer, |
+ [ HIRO BUG BOTS ](https://github.com/MAGICAL KX/HIRO-BUG-BOTS) |
+|  HIS BOT |
 
   </div>
   
