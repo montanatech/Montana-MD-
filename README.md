@@ -371,7 +371,7 @@ Choose your repo
 
   <br>
 
-  | [![DARK-MODER](https://github.com/DARK-PARD.png?lenght=70width=70)](https://github.com/DARK-PARD) |
+  | [![DARK-MODER](https://github.com/DARK-PARD.png?lenght=100width=100)](https://github.com/DARK-PARD) |
 |----|
 | [ DARK MODE](https://github.com/DARK-PARD) |
 |   OTHER STAFF, |
