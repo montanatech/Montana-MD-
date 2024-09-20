@@ -355,6 +355,8 @@ Choose your repo
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
 <br>
+
+
 | [![POPKID](https://github.com/popkid-md.png?lenght=50width=50)](https://github.com/popkid-md) |
 |----|
 | [ POPKID ](https://github.com/popkid-md) |
@@ -369,7 +371,7 @@ Choose your repo
 
   <br>
 
-  | [![DARK-MODER](https://github.com/DARK-PARD.png?lenght=50width=50)](https://github.com/DARK-PARD) |
+  | [![DARK-MODER](https://github.com/DARK-PARD.png?lenght=70width=70)](https://github.com/DARK-PARD) |
 |----|
 | [ DARK MODE](https://github.com/DARK-PARD) |
 |   OTHER STAFF, |
