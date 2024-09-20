@@ -348,6 +348,12 @@ Choose your repo
 ## `Authors`
 
 <div align="center">
+| [![abrahamdw882](https://github.com/abrahamdw882.png?lenght=50width=50)](https://github.com/abrahamdw882)|
+|----|
+| [ MONTANA ](https://github.com/montanatech) |
+|  giving Bot Base |
+
+<br>
   
 | [![MAGICAL-KX](https://github.com/montanatech.png?lenght=50width=50)](https://github.com/montanatech)|
 |----|
@@ -374,6 +380,13 @@ Choose your repo
   | [![DARK-MODER](https://github.com/DARK-PARD.png?lenght=100width=100)](https://github.com/DARK-PARD) |
 |----|
 | [ DARK MODE](https://github.com/DARK-PARD) |
+|   OTHER STAFF, |
+
+<br>
+
+  | [![DARK-MODER](https://github.com/BOTS-OFFICIAL.png?lenght=100width=100)](https://github.com/BOTS-OFFICIAL) |
+|----|
+| [BOTS-OFFICIALE](https://github.com/BOTS-OFFICIAL) |
 |   OTHER STAFF, |
   </div>
   
