@@ -348,9 +348,10 @@ Choose your repo
 ## `Authors`
 
 <div align="center">
+  
 | [![abrahamdw882](https://github.com/abrahamdw882.png?lenght=50width=50)](https://github.com/abrahamdw882)|
 |----|
-| [ MONTANA ](https://github.com/montanatech) |
+| [abrahamdw882 ](https://github.com/abrahamdw882) |
 |  giving Bot Base |
 
 <br>
