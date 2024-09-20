@@ -349,7 +349,7 @@ Choose your repo
 
 <div align="center">
   
-| [![MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/MAGICAL-KX)|
+| [![MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/montanatech)|
 |----|
 | [ MONTANA ](https://github.com/montanatech) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
@@ -358,8 +358,15 @@ Choose your repo
   
 | [![MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/MAGICAL-KX) |
 |----|
-| [ 𝙈AGICAL-KX ](https://github.com/MAGICAL KX) |
+| [ 𝙈AGICAL-KX ](https://github.com/MAGICAL-KX) |
 |  Co.Owner , Bug Fixer, |
+
+  <br>
+
+  | [![DARK-MODER](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/DARK-PARD) |
+|----|
+| [ DARK MODE](https://github.com/DARK-PARD) |
+|   OTHER STAFF, |
   </div>
   
 
