@@ -363,7 +363,7 @@ Choose your repo
 
   <br>
 
-  | [![DARK-MODER](https://github.com/montanatech.png?lenght=50width=50)](https://github.com/DARK-PARD) |
+  | [![DARK-MODER](https://github.com/DARK-PARD.png?lenght=50width=50)](https://github.com/DARK-PARD) |
 |----|
 | [ DARK MODE](https://github.com/DARK-PARD) |
 |   OTHER STAFF, |
