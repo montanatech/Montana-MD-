@@ -349,7 +349,7 @@ Choose your repo
 
 <div align="center">
   
-| [![MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/montanatech)|
+| [![MAGICAL-KX](https://github.com/montanatech.png?lenght=50width=50)](https://github.com/montanatech)|
 |----|
 | [ MONTANA ](https://github.com/montanatech) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
@@ -363,7 +363,7 @@ Choose your repo
 
   <br>
 
-  | [![DARK-MODER](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/DARK-PARD) |
+  | [![DARK-MODER](https://github.com/montanatech.png?lenght=50width=50)](https://github.com/DARK-PARD) |
 |----|
 | [ DARK MODE](https://github.com/DARK-PARD) |
 |   OTHER STAFF, |
