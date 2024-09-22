@@ -27,7 +27,8 @@
       },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
-"value":"8cf895b5-dbdf-4d5d-b2a1-b31319db8aa6" 
+"value":"" 
+"required":true   
    },
   "HEROKU_APP_NAME": {
     "description": "Put HEROKU APP NAME same as above.",
@@ -122,9 +123,9 @@
 			"size": "basic"
 		}
 	},
-"addons": [
+"addons": {
 		{
 			"plan": "heroku-postgresql"
 		}
-	]
+	}
 }
