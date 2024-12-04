@@ -1,4 +1,4 @@
-## `montanatech`
+## `montanatech montana bot`
 <div ="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=blue&center=true&width=900&height=100&lines=Its MONTANA-MD;Multi+Device+Whatsapp+Bot;Developed+By+MONTANA" alt="Typing SVG" /></a>
   
